@@ -1,0 +1,19 @@
+# GoD - God old Days PHP Framework
+
+GoD is a framework designed to allow developers to thinks less of having
+to update every last project they've ever built, with the sudden mischief
+in the php core system developers have to update every version of their app
+to match the lates .x version.
+
+For this reason we have created =GoD= to make it seamless you only need
+to 
+> require_once("god.php");
+and tadaaa no need to rewrite any functions :)
+
+***
+Feel free to
+- Fork
+- delete
+- use or abuse
+
+Check LICENSE for more details
